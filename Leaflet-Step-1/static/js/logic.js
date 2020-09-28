@@ -82,7 +82,6 @@ d3.json(URL, function (data) {
         var div = L.DomUtil.create('div', 'info legend');
         var levels = ['>1', '1-2', '2-3', '3-4', '4-5', '5+'];
         var colors = ['#3c0', '#9f6', '#fc3', '#f93', '#c60', '#c00']
-
         for (var i = 0; i < levels.length; i++) {
             div.innerHTML += '<i style="background:' + colors[i] + '"></i>' + levels[i] + '<br>';
         }

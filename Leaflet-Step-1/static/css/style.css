@@ -1,7 +1,7 @@
-/*Let the map take up the entire space on the webpage by applying no padding or margin */
+/*Adding padding margin so that we can scroll down to see the map properly */
 body {
-  padding: 0;
-  margin: 0;
+  padding: 20px;
+  margin: 20px;
 }
 
 /* Additionally we will set the id of map and the elements of body and html to be a height of 100% so that the map will take the entire page */
@@ -9,6 +9,11 @@ body {
 body,
 html {
   height: 100%;
+}
+
+#title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
 }
 
 /*Sets up the initial boundaries for the legend box */
