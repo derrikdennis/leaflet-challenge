@@ -1,7 +1,7 @@
-/*Adding padding margin so that we can scroll down to see the map properly */
+/* Set the original padding and margin to 0px */
 body {
-  padding: 20px;
-  margin: 20px;
+  padding: 0px;
+  margin: 0px;
 }
 
 /* Additionally we will set the id of map and the elements of body and html to be a height of 100% so that the map will take the entire page */
@@ -11,9 +11,16 @@ html {
   height: 100%;
 }
 
+/* Adding padding and margin for the map */
+#map {
+  padding-top: 20px;
+  margin: 30px;
+}
+
 #title {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 24px;
+  text-align: center;
 }
 
 /*Sets up the initial boundaries for the legend box */
