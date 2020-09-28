@@ -1,6 +1,6 @@
 const myMap = L.map("map", {
     center: [37.09, -95.71],
-    zoom: 5
+    zoom: 4
 });
 
 const streetmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
