@@ -3,8 +3,9 @@
 ## Table of Contents <!-- omit in toc -->
 - [Background](#background)
 - [Your Task](#your-task)
-  - [Basic Visualization](#basic-visualization)
-  - [Results](#results)
+  - [Obtain the latest information from USGS](#obtain-the-latest-information-from-usgs)
+  - [Import & Visualize the Data](#import--visualize-the-data)
+- [Results](#results)
 
 ## Background
 
@@ -14,13 +15,12 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ## Your Task
 
-### Basic Visualization
 
-1. **Obtain the latest information from USGS**
+### Obtain the latest information from USGS
 
    The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Select the dataset for the past 7 days.  Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and pick a data set to visualize. When you click on a data set, for example 'All Earthquakes from the Past 7 Days', you will be given a JSON representation of that data. You will be using the URL of this JSON to pull in the data for our visualization.
 
-2. **Import & Visualize the Data**
+### Import & Visualize the Data
 
    Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
 
@@ -31,7 +31,7 @@ The USGS is interested in building a new set of tools that will allow them visua
    - Create a legend that will provide context for your map data.
 
 
-### Results
+## Results
 
 Here is a look at what the results of step 1 look like with the past 7 days of information from the USGS
 
