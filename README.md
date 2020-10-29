@@ -36,7 +36,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 Here is a look at what the results of step 1 look like.  
 
 
-![step1](Leaflet-Step-1/Images/Leaflet_Step1_Results.jpg)
+![step1](Images/Leaflet_Step1_Results.jpg)
 
 
 
