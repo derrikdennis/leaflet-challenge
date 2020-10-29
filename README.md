@@ -1,9 +1,10 @@
-# Leaflet Homework - Visualizing Data with Leaflet
+# Leaflet Homework - Visualizing Data with Leaflet <!-- omit in toc -->
 
-- [Leaflet Homework - Visualizing Data with Leaflet](#leaflet-homework---visualizing-data-with-leaflet)
-  - [Background](#background)
-  - [Your Task](#your-task)
-    - [Level 1: Basic Visualization](#level-1-basic-visualization)
+## Table of Contents <!-- omit in toc -->
+- [Background](#background)
+- [Your Task](#your-task)
+  - [Step 1: Basic Visualization](#step-1-basic-visualization)
+  - [Results: Step 1](#results-step-1)
 
 ## Background
 
@@ -13,7 +14,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ## Your Task
 
-### Level 1: Basic Visualization
+### Step 1: Basic Visualization
 
 1. **Get your data set**
 
@@ -29,6 +30,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 
    - Create a legend that will provide context for your map data.
 
-   - Your visualization should look something like the map given.
 
----
+### Results: Step 1
+
+Here is a look at what the results of step 1 look like.  For the most accurate step 1 results, please go to [here](Leaflet-Step-1/index.html)
