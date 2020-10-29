@@ -3,8 +3,8 @@
 ## Table of Contents <!-- omit in toc -->
 - [Background](#background)
 - [Your Task](#your-task)
-  - [Step 1: Basic Visualization](#step-1-basic-visualization)
-  - [Results: Step 1](#results-step-1)
+  - [Basic Visualization](#basic-visualization)
+  - [Results](#results)
 
 ## Background
 
@@ -14,7 +14,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ## Your Task
 
-### Step 1: Basic Visualization
+### Basic Visualization
 
 1. **Get your data set**
 
@@ -31,7 +31,7 @@ The USGS is interested in building a new set of tools that will allow them visua
    - Create a legend that will provide context for your map data.
 
 
-### Results: Step 1
+### Results
 
 Here is a look at what the results of step 1 look like.  
 
