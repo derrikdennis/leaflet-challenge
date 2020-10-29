@@ -33,4 +33,12 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ### Results: Step 1
 
-Here is a look at what the results of step 1 look like.  For the most accurate step 1 results, please go to [here](Leaflet-Step-1/index.html)
+Here is a look at what the results of step 1 look like.  
+
+
+![step1](Leaflet-Step-1/Images/Leaflet_Step1_Results.jpg)
+
+
+
+
+For the most accurate step 1 results, please go to [here](Leaflet-Step-1/index.html)
