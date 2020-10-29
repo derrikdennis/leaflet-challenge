@@ -1,4 +1,4 @@
-# Visualizing USGS Earthquale Data with Leaflet <!-- omit in toc -->
+# Visualizing USGS Data - Leaflet Challenge <!-- omit in toc -->
 
 ## Table of Contents <!-- omit in toc -->
 - [Background](#background)
